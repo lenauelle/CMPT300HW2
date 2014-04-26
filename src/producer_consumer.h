@@ -49,7 +49,7 @@ int free_tools;
    
 //quantity of materials (includes discarded)
 long material_generated[MATERIAL_TYPE]; 
-//quantity of products (includes discared)
+//quantity of products (includes discarded)
 long product_produced[PRODUCT_TYPE]; 
 
 bool bpaused; //flag: do Pause or Resume
